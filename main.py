@@ -11,7 +11,6 @@ from aiogram.utils.markdown import bold, code, italic, text
 
 # Configure bot here
 API_TOKEN = '1144848737:AAHYltrLw7TV0voDWbMHM8PoV1NfBruJtKc'
-PROXY_URL = 'http://209.127.191.180:9279:zgmncaqs-dest:j1qtwy90chxf'  # Or 'socks5://host:port'
 
 # NOTE: If authentication is required in your proxy then uncomment next line and change login/password for it
 # PROXY_AUTH = aiohttp.BasicAuth(login='login', password='password')
